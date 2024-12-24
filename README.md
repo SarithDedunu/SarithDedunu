@@ -1,7 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Kavindu Dedunupitiya</h1>
-<h3 align="center">Software Engineering Student(3rd Year) | Full-Stack Dev Enthusiast | AI & Machine Learning Aspirant | Lifelong Learner | Exploring New Tech & Trends | Coffee Connoisseur☕️</h3>
 
+<h1 align="center">Hi 👋, I'm Kavindu Dedunupitiya</h1>
+<h3 align="center">Software Engineering Student | Still in learning | Coffee Connoisseur☕️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarithdedunu&label=Profile%20views&color=0e75b6&style=flat" alt="sarithdedunu" /> </p>
 
@@ -10,8 +9,6 @@
 - 🌱 I’m currently learning **Python, MongoDB, JavaScript, React**
 
 - 📫 How to reach me **kavindudedunupitiya@gmail.com**
-
-- ⚡ Fun fact **Conquering coding challenges by day, slaying virtual dragons by night (balance is key, right?)😏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
